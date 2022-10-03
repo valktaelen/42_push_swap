@@ -62,7 +62,7 @@ make -C dir_push_swap
 
 # Tests
 
-https://bestofcpp.com/repo/SimonCROS-complexity-cpp-utilities
+https://github.com/SimonCROS/push_swap_tester
 
 https://github.com/lmalki-h/push_swap_tester
 
